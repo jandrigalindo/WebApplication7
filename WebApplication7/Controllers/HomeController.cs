@@ -15,6 +15,7 @@ namespace WebApplication7.Controllers
 
         public IActionResult Index()
         {
+            String dato = "";
             return View();
         }
 
